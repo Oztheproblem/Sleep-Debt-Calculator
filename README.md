@@ -8,11 +8,11 @@ The program will determine the actual and ideal hours of sleep for each night of
 
 JavaScript
 
-#Setup
+##Setup
 
 To run this project, simply download the code files and open the sleepDebtCalculator.js file in your web browser or JavaScript environment.
 
-#Usage
+##Usage
 
 Follow these steps to use the Sleep Debt Calculator:
 
